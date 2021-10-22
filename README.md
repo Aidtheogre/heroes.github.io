@@ -20,6 +20,8 @@
  * For My favorite activities click [here][favorite activities]
  * For a block of code I wrote click [here][code block]
  * For my favorite websites click [here][favorite websites]
+
+
 [home]: https://aidtheogre.github.io
 [about me]: https://aidtheogre.github.io/aboutme.github.io/  
 [favorite activities]: www.github.com  
