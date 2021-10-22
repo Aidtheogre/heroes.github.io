@@ -15,7 +15,7 @@
 
 
 #### Shortcuts
- * For home click [here][home].
+ * For home click [here][home]
  * For about me click [here][about me]
  * For My favorite activities click [here][favorite activities]
  * For a block of code I wrote click [here][code block]
