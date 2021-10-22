@@ -26,6 +26,6 @@
 [about me]: https://aidtheogre.github.io/aboutme.github.io/  
 [favorite activities]: www.github.com  
 [code block]: www.github.com  
-[favorite websites]: www.github.com  
+
 
  
