@@ -24,7 +24,7 @@
 
 [home]: https://aidtheogre.github.io
 [about me]: https://aidtheogre.github.io/aboutme.github.io/  
-[favorite activities]: www.github.com  
+[favorite activities]: https://aidtheogre.github.io/favoriteactivities.github.io/
 [code block]: www.github.com  
 
 
